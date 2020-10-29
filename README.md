@@ -1,3 +1,3 @@
 # WCM
 
-repositorio del colegio William C. Morris.
+repositorio del proyecto colegio William C. Morris.
